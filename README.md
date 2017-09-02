@@ -27,6 +27,7 @@ In this project, a responsive user interface for content management system[for a
 <hr>
 <h3>Login Screen</h3>
 <img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Login.png" />
+<br/>
 <h3>Dashboard for Admin</h3>
 <img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Dashboard.png" />
 
