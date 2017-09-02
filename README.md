@@ -5,8 +5,19 @@ In this project, a responsive user interface for content management system[for a
 <li>Use of open source editor -CKEditor which is powered by Amazon Web services.</li>
 
 <hr>
-
+<table>
+<tr>
+<td>Bootstrap 3.3</td>
+<td>https://getbootstrap.com/docs/3.3/getting-started/</td>
+</tr>
+<tr>
+<td>CKEditor CDN</td>
+<td>https://cdn.ckeditor.com/</td>
+</tr>
+</table>
 <hr>
-<li></li>
-<li></li>
-<li></li>
+<h5>Four main parts of Content Management System - Admin theme are</h5>
+<li>Dashboard</li>
+<li>Pages</li>
+<li>Posts</li>
+<li>Users</li>
