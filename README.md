@@ -42,4 +42,5 @@ In this project, a responsive user interface for content management system[for a
 <h3>Responsive Navigation Bar</h3>
 <img src="https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Responsive.png" />
 <img src ="https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Responsive_NavBar.png" />
+<img src="https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Responsive_AddPage.png" />
 
