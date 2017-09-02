@@ -27,7 +27,19 @@ In this project, a responsive user interface for content management system[for a
 <hr>
 <h3>Login Screen</h3>
 <img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Login.png" />
-<br/>
 <h3>Dashboard for Admin</h3>
 <img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Dashboard.png" />
+<h3>Pages Tab</h3>
+<img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Pages_tab.png" />
+<h3>Posts Tab</h3>
+<img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Posts_Tab.png" />
+<h3>Create Content</h3>
+<img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/CreateContent.png" />
+<h3>Create Content => Add Page</h3>
+<img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/AddPage.png" />
+<h3>Edit Page</h3>
+<img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/EditPost.png" />
+<h3>Responsive Navigation Bar</h3>
+<img src="https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Responsive.png" />
+<img src ="https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Responsive_NavBar.png" />
 
