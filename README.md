@@ -24,3 +24,9 @@ In this project, a responsive user interface for content management system[for a
 <br>
 <p>To start using CKEditor on your website, add a single <script> tag to your HTML page:</p>
 <blockquote><script src="https://cdn.ckeditor.com/4.7.2/standard/ckeditor.js"></script></blockquote>
+<hr>
+<h3>Login Screen</h3>
+<img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Login.png" />
+<h3>Dashboard for Admin</h3>
+<img src = "https://github.com/patilankita79/ResponsiveUIForContentManagementSystem/blob/master/UI_ContentManagementSystem/Screenshots/Dashboard.png" />
+
